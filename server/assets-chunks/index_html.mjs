@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en" data-beasties-container><head>
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
   <meta charset="utf-8">
   <title>RickMortyApp</title>
   <base href="https://blduranc.github.io/rick-morty-angular/">
@@ -9,4 +9,4 @@
   <app-root ng-version="21.2.1" ng-server-context="ssg"><app-characters _nghost-ng-c1767628331><h1 _ngcontent-ng-c1767628331 class="title">Rick &amp; Morty </h1><div _ngcontent-ng-c1767628331 class="search-box"><input _ngcontent-ng-c1767628331 type="text" placeholder="Search character..." value class="ng-untouched ng-pristine ng-valid"><select _ngcontent-ng-c1767628331 class="ng-untouched ng-pristine ng-valid"><option _ngcontent-ng-c1767628331 value="all">All</option><option _ngcontent-ng-c1767628331 value="alive">Alive</option><option _ngcontent-ng-c1767628331 value="dead">Dead</option><option _ngcontent-ng-c1767628331 value="unknown">Unknown</option></select><button _ngcontent-ng-c1767628331> Search </button></div><div _ngcontent-ng-c1767628331 class="characters"><!----></div></app-characters></app-root>
 <script src="main-DNAAMSDB.js" type="module"></script>
 
-</body></html>
+</body></html>`;
